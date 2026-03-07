@@ -1,4 +1,6 @@
 # MECH2020 - 设计与制造B
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![小作业10%](https://img.shields.io/badge/小作业-10%25-wheat)
