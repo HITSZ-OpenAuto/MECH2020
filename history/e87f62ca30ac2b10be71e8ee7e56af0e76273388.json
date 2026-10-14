@@ -1,0 +1,97 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1768401176,
+    "hash": "bb83df44887e6870703287e939c0e009e8954119"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1768401176,
+    "hash": "bb83df44887e6870703287e939c0e009e8954119"
+  },
+  "README.md": {
+    "size": 334,
+    "time": 1791961686,
+    "hash": "e87f62ca30ac2b10be71e8ee7e56af0e76273388"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1768401176,
+    "hash": "bb83df44887e6870703287e939c0e009e8954119"
+  },
+  "assignments/杨可桢 机械设计基础 第七版 辅导课后习题答案详解 _split.pdf": {
+    "size": 60084410,
+    "time": 1770254422,
+    "hash": "1a6d23b938cfc96650be09e2d3a007c68b1949ba"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1768401176,
+    "hash": "bb83df44887e6870703287e939c0e009e8954119"
+  },
+  "exams/原《机械设计基础》/77机械设计基础.pdf": {
+    "size": 3072396,
+    "time": 1770254422,
+    "hash": "1a6d23b938cfc96650be09e2d3a007c68b1949ba"
+  },
+  "exams/原《机械设计基础》/[网盘计划]机械设计基础往年题.pdf": {
+    "size": 17141795,
+    "time": 1770254422,
+    "hash": "1a6d23b938cfc96650be09e2d3a007c68b1949ba"
+  },
+  "exams/原《机械设计基础》/机械设计基础参考答案.docx": {
+    "size": 4259272,
+    "time": 1770254422,
+    "hash": "1a6d23b938cfc96650be09e2d3a007c68b1949ba"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1768401176,
+    "hash": "bb83df44887e6870703287e939c0e009e8954119"
+  },
+  "labs/原《机械设计基础》/19-李鸣航/1. 机构认识与运动简图测绘实验报告（自动化、电气）.pdf": {
+    "size": 4434142,
+    "time": 1770254422,
+    "hash": "1a6d23b938cfc96650be09e2d3a007c68b1949ba"
+  },
+  "labs/原《机械设计基础》/19-李鸣航/2. 齿轮范成原理与齿轮参数测试实验报告.pdf": {
+    "size": 4845697,
+    "time": 1770254422,
+    "hash": "1a6d23b938cfc96650be09e2d3a007c68b1949ba"
+  },
+  "labs/原《机械设计基础》/19-李鸣航/3. 机器组成及典型机械零部件认识与分析实验报告.pdf": {
+    "size": 3345996,
+    "time": 1770254422,
+    "hash": "1a6d23b938cfc96650be09e2d3a007c68b1949ba"
+  },
+  "labs/原《机械设计基础》/19-李鸣航/4. 带传动实验报告.pdf": {
+    "size": 11862870,
+    "time": 1770254422,
+    "hash": "1a6d23b938cfc96650be09e2d3a007c68b1949ba"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1768401176,
+    "hash": "bb83df44887e6870703287e939c0e009e8954119"
+  },
+  "notes/机械设计基础复习笔记(不一定好用)_山樵.pdf": {
+    "size": 16986831,
+    "time": 1770254422,
+    "hash": "1a6d23b938cfc96650be09e2d3a007c68b1949ba"
+  },
+  "notes/机械设计😈😈😈_by_Spar Océsel_2023.apkg": {
+    "size": 594856,
+    "time": 1770254422,
+    "hash": "1a6d23b938cfc96650be09e2d3a007c68b1949ba"
+  },
+  "readme.toml": {
+    "size": 359,
+    "time": 1773428262,
+    "hash": "cf0116109c98823b644d72dd49eefba7c8d845fe"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1768401176,
+    "hash": "bb83df44887e6870703287e939c0e009e8954119"
+  }
+}
